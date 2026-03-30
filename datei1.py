@@ -16,3 +16,7 @@ print("Feature 3")
 //Feature 5
 print("Feature 5")
 
+
+//Kollege-feat-6
+print("Feature 6")
+
