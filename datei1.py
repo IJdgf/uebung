@@ -8,5 +8,7 @@ print("The sum of a and b is:", a + b)
 c = a* b
 print("The product of a and b is:", c)
 
+//Feature 4
+print("Feature 4")
 //Ich-feat-3:
 print("Feature 3")
