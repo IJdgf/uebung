@@ -12,3 +12,7 @@ print("The product of a and b is:", c)
 print("Feature 4")
 //Ich-feat-3:
 print("Feature 3")
+
+//Feature 5
+print("Feature 5")
+
